@@ -1,2 +1,2 @@
-# Codsoft
-An internship.
+# CALCULATOR
+
